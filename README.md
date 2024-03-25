@@ -1,3 +1,4 @@
 # Dendristor
 
-Data and code files are made available to the public after the research is accepted.
+Here, I upload (1) Data files used for Figures 
+and (2) LT-SPICE files designed for dendristors. 
