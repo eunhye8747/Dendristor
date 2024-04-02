@@ -1,4 +1,3 @@
 # Dendristor
 
-Here, I upload (1) Data files used for Figures 
-and (2) LT-SPICE files designed for dendristors. 
+Here, I have uploaded (1) the data file used for the figures and (2) the LTspice files designed for Dendristor.
